@@ -1,19 +1,19 @@
 {
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_content"
-    },
-    {
-      "id": 1,
-      "content": "Cool!",
-      "username": "zero_cool"
-    },
-    {
-      "id": 2,
-      "content": "Wow!",
-      "username": "zero_blast"
-    }
-  ]
+    "comments":[
+        {
+            "id": 0,
+            "name": "Danny",
+            "comment": "This is awesome!"
+        },
+        {
+            "id": 1,
+            "name": "Aaron",
+            "comment": "This is awesome!"
+        },
+        {
+            "id": 2,
+            "name": "Jonathan",
+            "comment": "This is awesome!"
+        }
+    ]
 }
